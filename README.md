@@ -87,6 +87,8 @@ The project includes Swagger for API documentation. Once the application is runn
 
 ## Project Structure
 
+
+```
 src/
 ├── common/
 │   └── validators/
@@ -120,3 +122,4 @@ src/
 ├── app.module.ts
 ├── app.service.ts
 └── main.ts
+```
